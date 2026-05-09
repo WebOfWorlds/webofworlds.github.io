@@ -1,4 +1,4 @@
-# Hello, Web of Worlds!
+# Web of Worlds
 
 Enabling an open, decentralized and efficient Metaverse on the Open Web Platform 🚀
 
