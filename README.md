@@ -24,3 +24,8 @@ In 2025, a blog post highlighted early outcomes of this project.
 
 [MSF Project slides](https://docs.google.com/presentation/d/e/2PACX-1vRXc7AF4NbHHJYYgSdOyCqVAfDF-PUA49jOmUXdDucMFBB9WVquD-uIiieC6ISvLSmKNa4j6RCL_RsN/pub?start=true&loop=false&slide=id.g15127d92311_2_114)
 
+[The Web of Worlds (WoW) Whitepaper](https://webofworlds.github.io/initial_MSF_Whitepaper)
+
+## Core Principles from the white paper 
+
+We envision a novel and open architecture that builds upon OWP principles and standards, yet provides new, simplified, and direct solutions for virtual world consumers and producers.
