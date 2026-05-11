@@ -59,9 +59,9 @@ Our objective is not to introduce or create a new data format, but rather to lev
 
 # Proposed architecture 
 
-![objects](specification/figures/architecture.svg)
+![objects](https://webofworlds.github.io/WoWAPI/specification/figures/architecture.svg)
 
-![objects](specification/figures/objects.svg)
+![objects](https://webofworlds.github.io/WoWAPI/specification/figures/objects.svg)
 
 ## Open Spatial World API
 
