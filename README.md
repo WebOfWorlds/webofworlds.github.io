@@ -77,8 +77,6 @@ Our objective is not to introduce or create a new data format, but rather to lev
 
 # Implementations
 
-# Implementations
-
 ## Open Spatial World API
 
 | Name | License | Level | Spatial Asset Formats |  
