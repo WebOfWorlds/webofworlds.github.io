@@ -1,10 +1,6 @@
-# Hello, Web of Worlds!
-
-Enabling an open, decentralized and efficient Metaverse on the Open Web Platform 🚀
-
 ![objects](figures/logo.png)
 
-## Foundation
+# Foundation
 
 The [Metaverse Standards Forum](https://metaverse-standards.org) plays a central role in coordinating efforts around Metaverse standards, enabling the integration of requirements from SDOs, companies, and end users. The [MSF Core Introduction](https://metaverse-standards.org/#slides) contains the following statement on the first slide, which has not changed in recent years:
 
@@ -58,7 +54,7 @@ It is envisioned to use existing technology and standards that will provide the 
 
 Our objective is not to introduce or create a new data format, but rather to leverage existing **standards as spatial assets within the virtual world**. The RFC2077 standard and its associated model content registrations have formed a robust foundation on the existing web for many years. We anticipate that the USD-, GLTF-, and X3D-families of formats, which are already registered, will play a crucial role in various use cases. What is significant here is that we not only transfer and provide data using HTTP/S, but we also aim to utilize generic and harmonized DID resolvers to facilitate Asset links within wallets and related structures  
 
-## Proposed and refined architecture 
+# Proposed and refined architecture 
 
 ![objects](https://webofworlds.github.io/WoWAPI/specification/figures/architecture.svg)
 
