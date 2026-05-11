@@ -57,23 +57,15 @@ It is envisioned to use existing technology and standards that will provide the 
 
 Our objective is not to introduce or create a new data format, but rather to leverage existing **standards as spatial assets within the virtual world**. The RFC2077 standard and its associated model content registrations have formed a robust foundation on the existing web for many years. We anticipate that the USD-, GLTF-, and X3D-families of formats, which are already registered, will play a crucial role in various use cases. What is significant here is that we not only transfer and provide data using HTTP/S, but we also aim to utilize generic and harmonized DID resolvers to facilitate Asset links within wallets and related structures  
 
-# Proposed architecture 
+## Proposed and refined architecture 
 
 ![objects](https://webofworlds.github.io/WoWAPI/specification/figures/architecture.svg)
 
 ![objects](https://webofworlds.github.io/WoWAPI/specification/figures/objects.svg)
 
-## Open Spatial World API
+## Service API specification
 
-[OpenSpatialWorld API](specification/OpenSpatialWorld)
-
-## Open User Manifest API
-
-[OpenUserManifest API](specification/OpenUserManifest)
-
-## Open Spatial Asset API
-
-[OpenSpatialAsset API](specification/OpenSpatialAsset)
+[API specification](https://webofworlds.github.io/WoWAPI)
 
 # Implementations
 
