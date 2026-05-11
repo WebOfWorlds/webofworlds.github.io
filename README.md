@@ -20,7 +20,6 @@ In 2025, a blog post highlighted early outcomes of this project.
 
 [Linked Spatial Experiences: The Web of Worlds](https://metaverse-standards.org/news/blog/linked-spatial-experiences-the-web-of-worlds/)
 
-
 ## Ongoing Slide set update
 
 [MSF Project slides](https://docs.google.com/presentation/d/e/2PACX-1vRXc7AF4NbHHJYYgSdOyCqVAfDF-PUA49jOmUXdDucMFBB9WVquD-uIiieC6ISvLSmKNa4j6RCL_RsN/pub?start=true&loop=false&slide=id.g15127d92311_2_114)
@@ -33,7 +32,7 @@ In 2025, a blog post highlighted early outcomes of this project.
 
 We envision a novel and open architecture that builds upon OWP principles and standards, yet provides new, simplified, and direct solutions for virtual world consumers and producers.
 
-![Web Of Worlds](specification/figures/wow.svg)
+![objects](https://webofworlds.github.io/WoWAPI/specification/figures/wow.svg)
 
 ### The Spatial Worlds
 The world is not a single data state or document, but several persistent aspects that are linked with each other and can be accessed via the same API endpoint.
