@@ -2,6 +2,8 @@
 
 Enabling an open, decentralized and efficient Metaverse on the Open Web Platform 🚀
 
+![objects](figures/logo.png)
+
 ## Foundation
 
 The [Metaverse Standards Forum](https://metaverse-standards.org) plays a central role in coordinating efforts around Metaverse standards, enabling the integration of requirements from SDOs, companies, and end users. The [MSF Core Introduction](https://metaverse-standards.org/#slides) contains the following statement on the first slide, which has not changed in recent years:
