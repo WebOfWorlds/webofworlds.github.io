@@ -70,7 +70,7 @@ Our objective is not to introduce or create a new data format, but rather to lev
 
 | Name | License | Level | Spatial Asset Formats |  
 | --- | --- | --- | --- | 
-| simpleWorld | Free | 5  | gltf-binary, gltf+json, x3d+xml |
+| [simpleWorld](https://github.com/WebOfWorlds/simpleWorlds) | Free | 5  | gltf-binary, gltf+json, x3d+xml |
 | [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
 | HTMLModeWrapper | Free | 3  | vnd.usdz+zip |
 | CesiumWrapper | Free | 2 |
@@ -82,4 +82,4 @@ Our objective is not to introduce or create a new data format, but rather to lev
 | Name | License | Spatial Asset Formats | 
 | --- | --- | --- |
 | [RapidPipeline](https://rapidpipeline.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml |
-| [Sketchfab](https://sketchfab.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip |
+| Sketchfab | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip |
