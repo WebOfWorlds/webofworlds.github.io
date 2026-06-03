@@ -12,7 +12,9 @@ Five coordinated projects were launched, starting with one focused on linking vi
 
 > 1. Mechanisms to link and reference virtual worlds and parts thereof
 
-In 2025, a blog post highlighted early outcomes of this project. 
+In 2025, a initial blog post highlighted early outcomes of this project. 
+
+Following the successful MSF WG reorganization, the topic has been subsumed under the official [Spatial Computing WG](https://metaverse-standards.org/domain-groups/spatial-computing/) and it was decided that the Web of Worlds would become the first overarching subgroup of the Spatial Computing WG.
 
 ## Initial Blog Post 
 
