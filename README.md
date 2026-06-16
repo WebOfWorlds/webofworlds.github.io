@@ -16,9 +16,15 @@ In 2025, a initial blog post highlighted early outcomes of this project.
 
 Following the successful MSF WG reorganization, the topic has been subsumed under the official [Spatial Computing WG](https://metaverse-standards.org/domain-groups/spatial-computing/) and it was decided that the Web of Worlds would become the first overarching subgroup of the Spatial Computing WG.
 
-## Initial Blog Post 
+## MSF Blog Posts
+
+### Initial web of worlds Post, 2025
 
 [Linked Spatial Experiences: The Web of Worlds](https://metaverse-standards.org/news/blog/linked-spatial-experiences-the-web-of-worlds/)
+
+### Latest Post Announcing the White Paper Availability, Q2 2026
+
+[White Paper Availability](https://metaverse-standards.org/news/blog/announcing-the-web-of-worlds-whitepaper-a-concrete-path-to-the-open-metaverse/
 
 ## Ongoing Slide set update
 
