@@ -18,13 +18,13 @@ Following the successful MSF WG reorganization, the topic has been subsumed unde
 
 ## MSF Blog Posts
 
-### Initial web of worlds Post, 2025
+### Initial web of worlds Post, Q2 2025
 
 [Linked Spatial Experiences: The Web of Worlds](https://metaverse-standards.org/news/blog/linked-spatial-experiences-the-web-of-worlds/)
 
 ### Latest Post Announcing the White Paper Availability, Q2 2026
 
-[White Paper Availability](https://metaverse-standards.org/news/blog/announcing-the-web-of-worlds-whitepaper-a-concrete-path-to-the-open-metaverse/
+[White Paper Availability](https://metaverse-standards.org/news/blog/announcing-the-web-of-worlds-whitepaper-a-concrete-path-to-the-open-metaverse/)
 
 ## Ongoing Slide set update
 
