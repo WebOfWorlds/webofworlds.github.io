@@ -14,7 +14,7 @@ Five coordinated projects were launched, starting with one focused on linking vi
 
 In 2025, a initial blog post highlighted early outcomes of this project. 
 
-Following the successful MSF WG reorganization, the topic has been subsumed under the official [Spatial Computing WG](https://metaverse-standards.org/domain-groups/spatial-computing/) and it was decided that the Web of Worlds would become the first overarching subgroup of the Spatial Computing WG.
+Following the successful MSF WG reorganization, the topic has been subsumed under the official [Spatial Computing WG](https://metaverse-standards.org/domain-groups/spatial-computing/) and it was decided that the Web of Worlds would become the first overarching [subgroup of the Spatial Computing WG](https://portal.metaverse-standards.org/wg/Web_Of_Worlds/workgroup).
 
 ## MSF Blog Posts
 
@@ -93,3 +93,9 @@ Our objective is not to introduce or create a new data format, but rather to lev
 | --- | --- | --- |
 | [RapidPipeline](https://rapidpipeline.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml |
 | Sketchfab | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip |
+
+# Call for action 
+
+Get involved in the development of the next web-scale and open architecture. 
+
+https://portal.metaverse-standards.org/wg/Web_Of_Worlds/workgroup
