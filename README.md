@@ -98,4 +98,4 @@ Our objective is not to introduce or create a new data format, but rather to lev
 
 Get involved in the development of the next web-scale and open architecture. 
 
-https://portal.metaverse-standards.org/wg/Web_Of_Worlds/workgroup
+[MSF working group](https://portal.metaverse-standards.org/wg/Web_Of_Worlds/workgroup)
