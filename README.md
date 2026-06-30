@@ -78,10 +78,10 @@ Our objective is not to introduce or create a new data format, but rather to lev
 
 ## Open Spatial World API
 
-| Name | License | Level | Spatial Asset Formats |  
-| --- | --- | --- | --- | 
-| [simpleWorld](https://github.com/WebOfWorlds/simpleWorlds) | Apache-2.0 | 5  | gltf-binary, gltf+json, x3d+xml |
-| [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
+| Name | License | Level | Spatial Asset Formats | Status |
+| --- | --- | --- | --- | --- | 
+| [simpleWorld](https://github.com/WebOfWorlds/simpleWorlds) | Apache-2.0 | 5  | gltf-binary, gltf+json, x3d+xml | alpha preview |
+| [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las | beta | 
 | HTMLModeWrapper | Free | 3  | vnd.usdz+zip |
 | CesiumWrapper | Free | 2 |
 | UnrealWrapper | Free | 2 |
@@ -89,10 +89,10 @@ Our objective is not to introduce or create a new data format, but rather to lev
 
 ## Open Spatial Asset API
 
-| Name | License | Spatial Asset Formats | 
-| --- | --- | --- |
-| [RapidPipeline](https://rapidpipeline.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml |
-| Sketchfab | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip |
+| Name | License | Spatial Asset Formats | Status |
+| --- | --- | --- | --- | 
+| [RapidPipeline](https://rapidpipeline.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml |  |
+| Sketchfab | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip | |
 
 # Call for action 
 
