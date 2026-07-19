@@ -82,7 +82,7 @@ Our objective is not to introduce or create a new data format, but rather to lev
 | --- | --- | --- | --- | --- | 
 | [simpleWorld](https://github.com/WebOfWorlds/simpleWorlds) | Apache-2.0 | 5  | gltf-binary, gltf+json, x3d+xml | alpha preview |
 | [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las | beta | 
-| HTMLModeWrapper | Free | 3  | vnd.usdz+zip |
+| [Open-Spatial-Lab](https://github.com/grigb/open-spatial-lab) | Apache-2.0 | 5  | gltf-binary |
 | CesiumWrapper | Free | 2 |
 | UnrealWrapper | Free | 2 |
 | UnityWrapper | Free | 2 |
