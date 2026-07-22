@@ -28,7 +28,7 @@ Following the successful MSF WG reorganization, the topic has been subsumed unde
 
 ## Ongoing Slide set update
 
-[MSF Project slides](https://docs.google.com/presentation/d/e/2PACX-1vRXc7AF4NbHHJYYgSdOyCqVAfDF-PUA49jOmUXdDucMFBB9WVquD-uIiieC6ISvLSmKNa4j6RCL_RsN/pub?start=true&loop=false&slide=id.g15127d92311_2_114)
+[MSF Project slides](https://docs.google.com/presentation/d/e/2PACX-1vQ5SIlRAXfPKX7lIg_mtdRg7Id9MHaaD_eMnNinKmav41eoowTZtVDJq_KN4699LxaSKQLBJekRi9lj/pub?start=false&loop=false&delayms=3000)
 
 ## MSF White Paper, 2026-03-31  
 
