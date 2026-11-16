@@ -94,16 +94,16 @@ Our objective is not to introduce or create a new data format, but rather to lev
 | [RapidPipeline](https://rapidpipeline.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml |  |
 | Sketchfab | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip | |
 
-# Outreach events
+# Outreach events 2026
 
-- IEEE ISMAR 2026, XWORLDS' Workshop, Bari, Italy, 5-9 Oct.
+- IEEE ISMAR 2026, [XWORLDS' Workshop](https://websites.fraunhofer.de/xworlds26/), Bari, Italy, 5-9 Oct.
   - The Web of Worlds – Towards a Referential Architecture for Open Spatial Worlds
     - Fraunhofer, DFI, Web3D, PK, Threedy
 - Web3D 2026, Doha, Qatar, 13-15 Oct.
   - Web of worlds Workshop, 90 minutes
     - Web3D consortium, Threedy
 - W3C TPAC Breakout Session, Dublin, Oct 26-30 co-organized by W3C and Forum
-  - Unleashing a Spatial Web: Mapping W3C Standards to Support a Web of Worlds
+  - [Unleashing a Spatial Web: Mapping W3C Standards to Support a Web of Worlds](https://www.w3.org/events/meetings/437890c5-8be3-44d2-b5e8-d8cd2a69d847/)
     - Samsung, Threedy
 
 
